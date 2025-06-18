@@ -5,7 +5,7 @@ from collections import Counter
 from wordcloud import WordCloud
 
 # === CONFIG ===
-CHAT_FILE = "D:\\ML\\Whatsapp_Summarizer\\WhatsApp Chat with AIDS '28.txt"  # exported WhatsApp .txt file
+CHAT_FILE = "chat.txt"  # exported WhatsApp .txt file
 KEYWORDS = ['assignment', 'exam', 'test', 'deadline']
 
 # === 1. Parse WhatsApp Chat File ===
